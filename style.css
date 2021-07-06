@@ -109,3 +109,12 @@ p{
 .ex2{
     text-align: center;
 }
+.foot{
+    background:black;
+    color:white;
+    padding: 1%;
+    display: center;
+}
+.foot p{
+    text-align: center;
+}
