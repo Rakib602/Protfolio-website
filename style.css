@@ -7,6 +7,7 @@ body{
     background-repeat: no-repeat;
     background-size: 100% 100%;
     display: flex;
+    margin-bottom: 20px;
 }
 .left-side{
     color: azure;
@@ -39,6 +40,33 @@ p{
     color: white;
     border-style: solid;
     border-color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+.education{
+    display:flex;
+    background: whitesmoke;
+    background-size: 100% 100%;
+    display: cover;
+}
+.left{
+    width:50%;
+    padding:5%;
+}
+.left img{
+    width:80%;
+}
+.right{
+    width: 50%;
+    padding-top:20%;
+    padding-right:5%;
+}
+.btn{
+    text-decoration: none;
+    color:black;
+    border-style: solid;
+    border-color: black;
     padding: 10px 20px;
     border-radius: 10px;
 
