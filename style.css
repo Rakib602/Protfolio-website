@@ -71,3 +71,41 @@ p{
     border-radius: 10px;
 
 }
+.expreience{
+    background:lightgray;
+    background-size: 100% 100%;
+    display: cover;
+}
+.exhead{
+    padding-top: 5%;
+    text-align: center;
+}
+.fexliable{
+    display:flex;
+}
+.thleft{
+    width:50%;
+    padding:2%;
+    box-shadow: gray 10px 10px 30px;
+    margin:5%;
+}
+.thleft img{
+    width:70%;
+    padding-left:15%;
+}
+.thright{
+    width:50%;
+    padding: 2%;
+    box-shadow: gray 10px 10px 30px;  
+    margin:5%;
+}
+.thright img{
+    width:70%;
+    padding-left:15%;
+}
+.ex1{
+    text-align: center;
+}
+.ex2{
+    text-align: center;
+}
