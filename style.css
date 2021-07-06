@@ -9,6 +9,9 @@ body{
     display: flex;
     margin-bottom: 20px;
 }
+span{
+    color:yellow;
+}
 .left-side{
     color: azure;
     width: 50%;
@@ -90,8 +93,12 @@ p{
     margin:5%;
 }
 .thleft img{
-    width:70%;
+    width:65%;
     padding-left:15%;
+}
+.thleft p{
+    padding-left: 2%;
+    padding-right:2%
 }
 .thright{
     width:50%;
@@ -100,8 +107,8 @@ p{
     margin:5%;
 }
 .thright img{
-    width:70%;
-    padding-left:15%;
+    width:80%;
+    padding-left:10%;
 }
 .ex1{
     text-align: center;
