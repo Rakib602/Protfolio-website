@@ -1,3 +1,45 @@
 body{
     font-family: 'STIX Two Math', serif; 
 }
+.top-header{
+    background: url(images/Web-Banner-2.jpg) ;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+}
+.left-side{
+    color: azure;
+    width: 50%;
+    padding: 5%;
+}
+.right-side{
+    width: 50%;
+}
+.right-side img{
+    width: 80%;
+    display: center;
+}
+h1{
+    font-size: 40px;
+    font-weight: 900;
+}
+h2{
+    font-size: 30px;
+    font-weight: 500;
+}
+p{
+    text-align: justify;
+}
+.link-button{
+    padding-top:10px;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
